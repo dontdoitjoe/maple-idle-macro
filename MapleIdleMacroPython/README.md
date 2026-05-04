@@ -40,7 +40,11 @@ A Python-based macOS automation tool for Maple Idle running on BlueStacks Air em
    python main.py
    ```
 
-### Option 2: Build Standalone App (for sharing)
+### Option 2: Download a prebuilt app (easiest for sharing)
+
+Check **[Releases](https://github.com/dontdoitjoe/maple-idle-macro/releases)** for `MapleIdleMacro-macos.zip` if a maintainer has published one.
+
+### Option 3: Build Standalone App (local build for sharing)
 
 From the project folder, with a venv that has `requirements.txt` installed:
 
