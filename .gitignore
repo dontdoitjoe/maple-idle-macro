@@ -1,0 +1,11 @@
+.DS_Store
+MapleIdleMacroPython/dist/
+MapleIdleMacroPython/build/
+MapleIdleMacroPython/venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Built releases (large; use GitHub Releases to distribute)
+MapleIdleMacroPython/release/*.zip
